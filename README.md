@@ -1,10 +1,10 @@
 Multimodel AI in potato disease detection.
 
-Download potato dataset:
+%Download potato dataset:
 Link：https://pan.baidu.com/s/1Yi0ybJMysTbs6_BcywssDg 
 Extraction code：zxcv
 
-Runing models:
+%Runing models:
 Step 1: Train Vision Models in detecting potato disease.
       Step 1.1: Download Vision Models' structure;
             Link：https://pan.baidu.com/s/17juj1yahiim6rT4bXMj0GA 
